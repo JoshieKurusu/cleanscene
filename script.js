@@ -9,3 +9,10 @@ button.addEventListener('click', () => {
     btn1.classList.toggle('hidden');
     btn2.classList.toggle('hidden');
 });
+
+const submit = document.querySelector('#submit-btn'); // Submit Btn
+const msg = document.querySelector('#message'); // Message after click the submit btn
+
+submit.addEventListener('click', () => {
+    msg.classList.toggle('hidden');
+});
