@@ -1,7 +1,2 @@
-# cleanscene
-A professional cleaning services.
-
-# Description
-It is the premier provider of top-quality cleaning services.
-
-I used HTML with Tailwind CSS framework and a little bit of JavaScript.
+# clean Scene - Premium Cleaning Services
+A platform providing top-quality cleaning services. Includes detailed service listings and customer testimonials. Built with HTML, Tailwind CSS framework, JavaScript for a seamless and informative user experience.
